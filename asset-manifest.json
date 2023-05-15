@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://cristiancv.github.io/csb-ct2e5h/static/css/main.0533d61b.css",
+    "main.js": "https://cristiancv.github.io/csb-ct2e5h/static/js/main.a75209fc.js",
+    "index.html": "https://cristiancv.github.io/csb-ct2e5h/index.html",
+    "main.0533d61b.css.map": "https://cristiancv.github.io/csb-ct2e5h/static/css/main.0533d61b.css.map",
+    "main.a75209fc.js.map": "https://cristiancv.github.io/csb-ct2e5h/static/js/main.a75209fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0533d61b.css",
+    "static/js/main.a75209fc.js"
+  ]
+}
